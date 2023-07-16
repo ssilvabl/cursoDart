@@ -1,0 +1,20 @@
+Dart es un lenguaje de programación creado por Google desde el 2011.
+
+# Métodos de compilación
+Utiliza dos Métodosde compilación
+* Just In Time: Permite la ejecución del código mucho más rápido mientras se está desarrollando
+* AHead of Time: Este se utiliza cuando la aplicación ya está en fase de producción
+
+# Dart también puede transcribir su código a JavScript, logrando de esta forma que se
+ejecute de forma óptima en un navegador utilizando el mismo código de la app
+
+# Para instalar Dart primero se debe descargar e instalar el administrador de paquetes chocolatery
+e instalar dart desde la terminar con el comando choco install dart-sdk
+
+# Para actualizar el sdk de Dart se debe ejecutar el comando choco upgrade dart-sdk
+
+# Para la ejecución de los programas en dart se ejecutan los siguientes comandos:
+$dart compile exe nombre_archivo.dart
+
+# Dart es un lenguaje estáticamente tipado, es decir, se deben indicar el tipo de variable antes de declararla,
+y al ser fuertemente tipado, el valor que se indique debe ser del mismo tipo de dato.
